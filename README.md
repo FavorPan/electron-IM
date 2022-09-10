@@ -1,14 +1,14 @@
-electron-vue开发IM，聊天功能，桌面应用
+electron 开发 IM，聊天功能，桌面应用
 
-本项目须要electron-vue-server运行：https://github.com/sjjrdfivk/electron-vue-server
+本项目须要 electron-server 运行：https://github.com/FavorPan/electron-server
 
-# electron-vue-test
+# electron-IM
 
-> An electron-vue project
+> An electron project
 
 #### Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -24,3 +24,4 @@ npm test
 
 # lint all JS/Vue component files in `src/`
 npm run lint
+```
